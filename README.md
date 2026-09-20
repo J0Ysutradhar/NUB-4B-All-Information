@@ -17,6 +17,7 @@
 | **Wednesday**| PHY1302 (401) | CSE2215 (702) | | |
 
 ## WhatsApp Groups
+* **Update Group:** [Join WhatsApp](https://chat.whatsapp.com/KJQGTTxtcao6RQ1DR45dho)
 ### Course Specific WhatsApp Groups
 * **OOP Lab CSE 1360:** [Join Group](https://chat.whatsapp.com/EWYZkln90fGJ5vBCETINkJ?s=cl&p=a&mlu=4&ilr=4)
 * **OOP CSE 1307:** [Join Group](https://chat.whatsapp.com/BRSqGSmK5x3FU20TrYeQc4?s=cl&p=a&mlu=4&ilr=4)
