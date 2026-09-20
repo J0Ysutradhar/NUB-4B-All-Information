@@ -1,4 +1,4 @@
-# Section 4B Fall '26 All Information Documents
+# Section 4B Fall '26 All Information
 
 ## Essential Links & Community
 * **Discord Server:** [Join Discord](https://discord.gg/C3RVajrP4x) *(for class notes, lecture material, all you need)*
