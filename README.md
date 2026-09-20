@@ -23,7 +23,7 @@
 * **Digital Logic Design CSE 2215:** [Join Group](https://chat.whatsapp.com/BesPs0ImBSh3fsBclBmQsc?s=cl&p=a&mlu=4&ilr=4)
 * **Digital Logic Design LAB:** [Join Group](https://chat.whatsapp.com/GiEnkfTTWar6FDYLLJJyfb?s=cl&p=a&mlu=4&ilr=4)
 * **Economics HUM 1301:** [Join Group](https://chat.whatsapp.com/KmEDHTEJjDJFOONvyDuErC?s=cl&p=a&mlu=4&ilr=4)
-
+* **Physics-ii  PHY 1302:** [Join Group](https://chat.whatsapp.com/FkF9Sbg1pNpJFZVKu9aW2l)
 ---
 
 ## Faculty & Course Information
