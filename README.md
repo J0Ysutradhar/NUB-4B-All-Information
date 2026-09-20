@@ -3,11 +3,11 @@
 ## Essential Links & Community
 * **Discord Server:** [Join Discord](https://discord.gg/C3RVajrP4x) *(for class notes, lecture material, all you need)*
 * **Class Routine:** Refer to the class schedule table below.
-* **Online Up-to-date Document URL:** [View Document Link](https://tinyurl.com/all-information-document-link)
+
 
 ## Class Representatives (CRs) Info
 * **Joy:** Cell +8801781763345 E-mail: sutradhar_41250302953@nub.ac.bd
-* **Jannat Islam Mim:** E-mail jm2265315@gmail.com
+* **Nurtaj Jahan Bristy:** E-mail nurtajbristy07@gmail.com
 
 ## Class Routine
 | Day | 9:30 AM - 10:50 AM | 11:00 AM - 12:20 PM | 1:00 PM - 2:20 PM | 2:30 PM - 3:50 PM |
