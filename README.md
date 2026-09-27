@@ -31,12 +31,12 @@
 
 | Faculty Name | Course | Phone Number | Email | GCR CODE |
 | :--- | :--- | :--- | :--- | :--- |
-| Md. Omar Faruk | Economics | 1888406228 | omfaruk@nub.ac.bd | TBA |
-| Md. Imtiage | OOP Lab | 1760797969 | imtiagecse22@gmail.com | l75y4bot |
-| Maimuna | OOP | 1868530774 | maimuna@nub.ac.bd | zjhvkxlc |
-| Md. Ashik Azad | Physics 2 | 1685114873 | ashikazad.cu@gmail.com | TBA |
-| Argho Deb Das | Digital Logic | 1758567895 | atdeb727@gmail.com | v7llrxpx |
-| Argho Deb Das | Digital Logic LAB | 1758567895 | atdeb727@gmail.com | TBA |
+| Md. Omar Faruk | Economics | 01888406228 | omfaruk@nub.ac.bd | TBA |
+| Md. Imtiage | OOP Lab | 01760797969 | imtiagecse22@gmail.com | l75y4bot |
+| Maimuna | OOP | 01868530774 | maimuna@nub.ac.bd | zjhvkxlc |
+| Md. Ashik Azad | Physics 2 | 01685114873 | ashikazad.cu@gmail.com | h7wjqn5z |
+| Argho Deb Das | Digital Logic | 01758567895 | atdeb727@gmail.com | v7llrxpx |
+| Argho Deb Das | Digital Logic LAB | 01758567895 | atdeb727@gmail.com | TBA |
 
 ---
 
