@@ -6,7 +6,7 @@
 
 
 ## Class Representatives (CRs) Info
-* **Joy:** Cell +8801781763345 E-mail: sutradhar_41250302953@nub.ac.bd
+* **Joy Sutradhar:** Cell +8801781763345 E-mail: sutradhar_41250302953@nub.ac.bd
 * **Nurtaj Jahan Bristy:** E-mail nurtajbristy07@gmail.com
 
 ## Class Routine
