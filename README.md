@@ -12,7 +12,7 @@
 ## Class Routine
 | Day | 9:30 AM - 10:50 AM | 11:00 AM - 12:20 PM | 1:00 PM - 2:20 PM | 2:30 PM - 3:50 PM |
 | :--- | :--- | :--- | :--- | :--- |
-| **Saturday** | HUM1301 (415) | CSE1307 (705) | CSE1360 (408 LAB) | |
+| **Saturday** | HUM1301 (403) | CSE1307 (705) | CSE1360 (408 LAB) | |
 | **Monday** | PHY1302 (402) | CSE2215 (B005) | CSE1307 (B003) | CSE2265 (408 LAB) |
 | **Wednesday**| PHY1302 (401) | CSE2215 (702) | | |
 
